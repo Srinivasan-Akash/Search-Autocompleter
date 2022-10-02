@@ -47,7 +47,7 @@ Go to the project directory
 - Clean Code
 
 ## 😌 Honest Time to finish the project
-I had took about 2hr 12min. Was a easy task !!
+I had took about 2hr 12min. Was a easy task !! THats why had explored glassmorphism and radial gradient
 
 ## 👀 Feedback
 If you have any feedback, please reach out to us at qa.sixsigma@gmail.com or orcontact me at 7676856815
